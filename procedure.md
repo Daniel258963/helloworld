@@ -1,5 +1,5 @@
 ##### These procedure steps will be followed on the simulator
-
+<br>
 1. After going through the theory and pretest, click the "Simulation" tab.<br>
 <br>
 2. The simulator will display the interactive questions, attempt the questions.<br>
@@ -19,7 +19,7 @@
 9. To note the readings click on "Add to table" button.<br>
 <br>
 10. Click on "Conclude" button.<br>
-
+<br>
 12. The simulator will display the interactive questions, attempt the questions.<br>
-
+<br>
 13. Note the conclusions from the experiment performed.<br>
